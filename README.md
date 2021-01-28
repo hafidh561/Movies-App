@@ -22,6 +22,6 @@ Hello everyone, i make simple application android from `Flutter`. Actually this 
 
 ### Changelog
 
-- **1.0 MoviesList**
+- **1.0 Movies App**
 
 © Developed by [hafidh561](https://github.com/hafidh561).
